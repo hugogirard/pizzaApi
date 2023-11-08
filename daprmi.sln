@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{8185241C-8576-4172-ADB9-71AACB3F61C9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MsgApi", "src\MsgApi\MsgApi.csproj", "{4979F44B-EE08-426C-B439-1F5F77E3407E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4979F44B-EE08-426C-B439-1F5F77E3407E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4979F44B-EE08-426C-B439-1F5F77E3407E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4979F44B-EE08-426C-B439-1F5F77E3407E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4979F44B-EE08-426C-B439-1F5F77E3407E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{4979F44B-EE08-426C-B439-1F5F77E3407E} = {8185241C-8576-4172-ADB9-71AACB3F61C9}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {38D92A89-32C5-4ABE-A7DC-EF32D4012337}
+	EndGlobalSection
+EndGlobal

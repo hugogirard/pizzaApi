@@ -1,0 +1,31 @@
+{
+  "version": 2,
+  "dgSpecHash": "09hdwEKfBf2hW0RLHXg3y9sYTxW53/TjU9seFv6/d/Dndslc0BsfjsiLb94c4+7nZq7oCfyDNmjFSoA83y8Qbw==",
+  "success": true,
+  "projectFilePath": "C:\\github\\daprmi\\src\\MsgApi\\MsgApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hugirard\\.nuget\\packages\\dapr.aspnetcore\\1.12.0\\dapr.aspnetcore.1.12.0.nupkg.sha512",
+    "C:\\Users\\hugirard\\.nuget\\packages\\dapr.client\\1.12.0\\dapr.client.1.12.0.nupkg.sha512",
+    "C:\\Users\\hugirard\\.nuget\\packages\\google.api.commonprotos\\2.2.0\\google.api.commonprotos.2.2.0.nupkg.sha512",
+    "C:\\Users\\hugirard\\.nuget\\packages\\google.protobuf\\3.15.0\\google.protobuf.3.15.0.nupkg.sha512",
+    "C:\\Users\\hugirard\\.nuget\\packages\\grpc.core.api\\2.52.0\\grpc.core.api.2.52.0.nupkg.sha512",
+    "C:\\Users\\hugirard\\.nuget\\packages\\grpc.net.client\\2.52.0\\grpc.net.client.2.52.0.nupkg.sha512",
+    "C:\\Users\\hugirard\\.nuget\\packages\\grpc.net.common\\2.52.0\\grpc.net.common.2.52.0.nupkg.sha512",
+    "C:\\Users\\hugirard\\.nuget\\packages\\man.dapr.sidekick\\1.2.2\\man.dapr.sidekick.1.2.2.nupkg.sha512",
+    "C:\\Users\\hugirard\\.nuget\\packages\\man.dapr.sidekick.aspnetcore\\1.2.2\\man.dapr.sidekick.aspnetcore.1.2.2.nupkg.sha512",
+    "C:\\Users\\hugirard\\.nuget\\packages\\man.dapr.sidekick.extensions.logging\\1.2.2\\man.dapr.sidekick.extensions.logging.1.2.2.nupkg.sha512",
+    "C:\\Users\\hugirard\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.13\\microsoft.aspnetcore.openapi.7.0.13.nupkg.sha512",
+    "C:\\Users\\hugirard\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\hugirard\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\5.0.0\\microsoft.extensions.logging.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\hugirard\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\hugirard\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\hugirard\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\hugirard\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\hugirard\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512",
+    "C:\\Users\\hugirard\\.nuget\\packages\\system.io.pipelines\\4.7.2\\system.io.pipelines.4.7.2.nupkg.sha512",
+    "C:\\Users\\hugirard\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\hugirard\\.nuget\\packages\\system.net.http.json\\5.0.0\\system.net.http.json.5.0.0.nupkg.sha512",
+    "C:\\Users\\hugirard\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.2\\system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512"
+  ],
+  "logs": []
+}
